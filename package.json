@@ -1,0 +1,21 @@
+{
+  "name": "anything",
+  "version": "1.0.0",
+  "description": "Anything",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohd-akram/anything.git"
+  },
+  "keywords": [
+    "anything"
+  ],
+  "author": "Mohamed Akram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohd-akram/anything/issues"
+  },
+  "homepage": "https://github.com/mohd-akram/anything#readme"
+}
